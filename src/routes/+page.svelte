@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>HardSSH &iddot; Hardware Base Layer for OpenSSH</title>
+	<title>HardSSH &middot; Hardware Base Layer for OpenSSH</title>
 </svelte:head>
 
 <h1 class="text-4xl font-bold font-seif content-center">HardSSH</h1>
